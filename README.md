@@ -1,2 +1,3 @@
 # publishing-wiki
-Sample wiki for LiL course
+Sample wiki for <kbd>LiL</kbd> course
+
